@@ -1,0 +1,33 @@
+h1 {
+  color:white;
+}
+body {
+  background-color: orange;
+  margin: 100px;
+  border-style:groove;
+  border-width:thick;
+  float:left;
+  background-image: url("https://media.giphy.com/media/dVaAhVMJhVoqI/giphy.gif")
+  
+}
+span.navigationSpace {
+  margin-left: 50px;
+}
+p {
+  color: azure;
+  float: left;
+  border-style: inherit;
+  border-color: white;
+  font-size: 14px;
+  /*check out this selector Ms.Park! What the Font-size property does, is literally choose what font size you would like for your selector. In this casemy selector is the paragraph selector*/
+  
+}
+
+img {
+  width: 1000px;
+  border-style: dotted;
+  border-color: black;
+  border-width: medium;
+  height: 400px;
+  border-radius: 200px;
+}
